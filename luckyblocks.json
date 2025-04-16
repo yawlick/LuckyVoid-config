@@ -1,0 +1,26 @@
+{
+  "DEFAULT": {
+    "items": [
+      {"material":  "ARROW", "amount": [1, 2], "chance": 100},
+      {"material":  "DIRT", "amount": [2, 4], "chance": 100},
+    ]
+  },
+  "RARE": {
+    "items": [
+      {"material":  "ARROW", "amount": [1, 2], "chance": 100},
+      {"material":  "DIRT", "amount": [2, 4], "chance": 100},
+    ]
+  },
+  "EPIC": {
+    "items": [
+      {"material":  "ARROW", "amount": [1, 2], "chance": 100},
+      {"material":  "DIRT", "amount": [2, 4], "chance": 100},
+    ]
+  },
+  "LEGENDARY": {
+    "items": [
+      {"material":  "ARROW", "amount": [1, 2], "chance": 100},
+      {"material":  "DIRT", "amount": [2, 4], "chance": 100},
+    ]
+  }
+}
