@@ -1,8 +1,39 @@
 {
   "DEFAULT": {
     "items": [
-      {"material":  "ARROW", "amount": [1, 9], "chance": 100},
-      {"material":  "DIRT", "amount": [5, 9], "chance": 100}
+      {"material":  "ARROW", "amount": [1, 6], "chance": 20},
+      {"material":  "HAY_BLOCK", "amount": [1, 2], "chance": 40},
+      {"material":  "WATER_BUCKET", "amount": [1, 1], "chance": 60},
+      {"material":  "LAVA_BUCKET", "amount": [1, 1], "chance": 60},
+      {"material":  "LOG", "amount": [1, 3], "chance": 70},
+      {"material":  "LOG_2", "amount": [1, 3], "chance": 60},
+      {"material":  "COBBLESTONE", "amount": [2, 8], "chance": 50},
+      {"material":  "IRON_ORE", "amount": [1, 3], "chance": 30},
+      {"material":  "DIRT", "amount": [4, 10], "chance": 80},
+      {"material":  "GOLD_ORE", "amount": [1, 2], "chance": 30},
+      {"material":  "LAPIS_ORE", "amount": [1, 2], "chance": 30},
+      {"material":  "REDSTONE_ORE", "amount": [1, 2], "chance": 30},
+      {"material":  "COAL_ORE", "amount": [1, 3], "chance": 40},
+      {"material":  "DIAMOND_ORE", "amount": [1, 2], "chance": 15},
+      {"material":  "EMERALD_ORE", "amount": [1, 2], "chance": 20},
+      {"material":  "PORKCHOP", "amount": [1, 3], "chance": 35},
+      {"material":  "OBSIDIAN", "amount": [1, 3], "chance": 50},
+      {"material":  "SAND", "amount": [1, 3], "chance": 40},
+      {"material":  "GRAVEL", "amount": [1, 3], "chance": 40},
+      {"material":  "STRING", "amount": [1, 2], "chance": 30},
+      {"material":  "CARROT", "amount": [1, 2], "chance": 20},
+      {"material":  "SLIME_BALL", "amount": [1, 3], "chance": 45},
+      {"material":  "APPLE", "amount": [1, 2], "chance": 20},
+      {"material":  "ENDER_PEARL", "amount": [1, 2], "chance": 20},
+      {"material":  "FEATHER", "amount": [1, 4], "chance": 40},
+      {"material":  "MELON_SEEDS", "amount": [1, 2], "chance": 30},
+      {"material":  "FIREWORKS", "amount": [1, 3], "chance": 20},
+      {"material":  "WOOL", "amount": [1, 3], "chance": 40},
+      {"material":  "POTATO", "amount": [1, 2], "chance": 40},
+      {"material":  "SANDSTONE", "amount": [4, 10], "chance": 60},
+      {"material":  "SOUL_SAND", "amount": [1, 4], "chance": 40},
+      {"material":  "EXPERIENCE_BOTTLE", "amount": [1, 3], "chance": 20},
+      {"material":  "LEATHER", "amount": [1, 2], "chance": 30}
     ]
   },
   "RARE": {
