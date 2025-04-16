@@ -27,7 +27,7 @@
       {"material":  "ENDER_PEARL", "amount": [1, 2], "chance": 20},
       {"material":  "FEATHER", "amount": [1, 4], "chance": 40},
       {"material":  "MELON_SEEDS", "amount": [1, 2], "chance": 30},
-      {"material":  "FIREWORKS", "amount": [1, 3], "chance": 20},
+      {"material":  "FIREWORK", "amount": [1, 3], "chance": 20},
       {"material":  "WOOL", "amount": [1, 3], "chance": 40},
       {"material":  "POTATO", "amount": [1, 2], "chance": 40},
       {"material":  "SANDSTONE", "amount": [4, 10], "chance": 60},
