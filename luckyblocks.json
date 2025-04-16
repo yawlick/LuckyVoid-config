@@ -32,7 +32,7 @@
       {"material":  "POTATO", "amount": [1, 2], "chance": 40},
       {"material":  "SANDSTONE", "amount": [4, 10], "chance": 60},
       {"material":  "SOUL_SAND", "amount": [1, 4], "chance": 40},
-      {"material":  "EXPERIENCE_BOTTLE", "amount": [1, 3], "chance": 20},
+      {"material":  "EXP_BOTTLE", "amount": [1, 3], "chance": 20},
       {"material":  "LEATHER", "amount": [1, 2], "chance": 30}
     ]
   },
@@ -54,7 +54,7 @@
   "EPIC": {
     "items": [
       {"material":  "OBSIDIAN", "amount": [8, 16], "chance": 60},
-      {"material":  "EXPERIENCE_BOTTLE", "amount": [12, 32], "chance": 40},
+      {"material":  "EXPE_BOTTLE", "amount": [12, 32], "chance": 40},
       {"material":  "DIAMOND_ORE", "amount": [5, 6], "chance": 30},
       {"material":  "EMERALD_ORE", "amount": [5, 6], "chance": 30},
       {"material":  "GOLDEN_APPLE", "amount": [2, 6], "chance": 20}
