@@ -1,8 +1,8 @@
 {
   "DEFAULT": {
     "items": [
-      {"material":  "ARROW", "amount": [1, 2], "chance": 100},
-      {"material":  "DIRT", "amount": [2, 4], "chance": 100}
+      {"material":  "ARROW", "amount": [1, 9], "chance": 100},
+      {"material":  "DIRT", "amount": [5, 9], "chance": 100}
     ]
   },
   "RARE": {
