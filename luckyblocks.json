@@ -54,7 +54,7 @@
   "EPIC": {
     "items": [
       {"material":  "OBSIDIAN", "amount": [8, 16], "chance": 60},
-      {"material":  "EXPE_BOTTLE", "amount": [12, 32], "chance": 40},
+      {"material":  "EXP_BOTTLE", "amount": [12, 32], "chance": 40},
       {"material":  "DIAMOND_ORE", "amount": [5, 6], "chance": 30},
       {"material":  "EMERALD_ORE", "amount": [5, 6], "chance": 30},
       {"material":  "GOLDEN_APPLE", "amount": [2, 6], "chance": 20}
