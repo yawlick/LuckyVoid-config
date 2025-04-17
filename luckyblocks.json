@@ -63,8 +63,8 @@
     "items": [
       {"material":  "ELYTRA", "amount": [1, 1], "chance": 50},
       {"material":  "DIAMOND_BLOCK", "amount": [1, 9], "chance": 100},
-      {"material":  "GOLDEN_APPLE", "amount": [3, 6], "chance": 100},
-      {"material":  "OBSIDIAN", "amount": [32, 64], "chance": 100},
+      {"material":  "OBSIDIAN", "amount": [32, 48], "chance": 100},
+      {"material":  "EXP_BOTTLE", "amount": [32, 48], "chance": 40},
       {"material":  "BLAZE_ROD", "amount": [8, 16], "chance": 100},
       {"material":  "GOLD_BLOCK", "amount": [1, 9], "chance": 100}
     ]
