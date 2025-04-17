@@ -56,15 +56,14 @@
       {"material":  "OBSIDIAN", "amount": [8, 16], "chance": 60},
       {"material":  "EXP_BOTTLE", "amount": [12, 32], "chance": 40},
       {"material":  "DIAMOND_ORE", "amount": [5, 6], "chance": 30},
-      {"material":  "EMERALD_ORE", "amount": [5, 6], "chance": 30},
-      {"material":  "GOLDEN_APPLE", "amount": [2, 6], "chance": 20}
+      {"material":  "EMERALD_ORE", "amount": [5, 6], "chance": 30}
     ]
   },
   "LEGENDARY": {
     "items": [
       {"material":  "ELYTRA", "amount": [1, 1], "chance": 50},
-      {"material":  "GOLDEN_APPLE", "meta": 1, "amount": [1, 1], "chance": 100},
       {"material":  "DIAMOND_BLOCK", "amount": [1, 9], "chance": 100},
+      {"material":  "GOLDEN_APPLE", "amount": [3, 6], "chance": 100},
       {"material":  "GOLD_BLOCK", "amount": [1, 9], "chance": 100}
     ]
   }
