@@ -1,7 +1,7 @@
 {
   "DEFAULT": {
     "items": [
-      {"material":  "ARROW", "amount": [1, 6], "chance": 20000},
+      {"material":  "ARROW", "amount": [1, 6], "chance": 20},
       {"material":  "HAY_BLOCK", "amount": [1, 2], "chance": 40},
       {"material":  "WATER_BUCKET", "amount": [1, 1], "chance": 60},
       {"material":  "LAVA_BUCKET", "amount": [1, 1], "chance": 60},
