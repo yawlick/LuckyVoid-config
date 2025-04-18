@@ -58,7 +58,7 @@
       {"material":  "OBSIDIAN", "amount": [8, 16], "chance": 60},
       {"material":  "EXP_BOTTLE", "amount": [12, 32], "chance": 30},
       {"material":  "DIAMOND_ORE", "amount": [5, 8], "chance": 40},
-      {"material":  "NETHER_WARTS", "amount": [1, 2], "chance": 410},
+      {"material":  "NETHER_WART", "amount": [1, 2], "chance": 410},
       {"material":  "EMERALD_ORE", "amount": [5, 8], "chance": 40},
       {"material":  "SHULKER_SHELL", "amount": [2, 4], "chance": 30} 
     ]
