@@ -45,7 +45,7 @@
       {"material":  "SULPHUR", "amount": [1, 4], "chance": 40},
       {"material":  "GLOWSTONE", "amount": [1, 1], "chance": 30},
       {"material":  "BLAZE_ROD", "amount": [1, 1], "chance": 30},
-      {"material":  "NETHER_WART", "amount": [1, 2], "chance": 40},
+      {"material":  "NETHER_WARTS", "amount": [1, 2], "chance": 40},
       {"material":  "BONE", "amount": [2, 6], "chance": 50},
       {"material":  "MAGMA_CREAM", "amount": [1, 1], "chance": 40},
       {"material":  "GHAST_TEAR", "amount": [1, 2], "chance": 40},
@@ -58,6 +58,7 @@
       {"material":  "OBSIDIAN", "amount": [8, 16], "chance": 60},
       {"material":  "EXP_BOTTLE", "amount": [12, 32], "chance": 30},
       {"material":  "DIAMOND_ORE", "amount": [5, 8], "chance": 40},
+      {"material":  "NETHER_WARTS", "amount": [1, 2], "chance": 4110},
       {"material":  "EMERALD_ORE", "amount": [5, 8], "chance": 40},
       {"material":  "SHULKER_SHELL", "amount": [2, 4], "chance": 30} 
     ]
