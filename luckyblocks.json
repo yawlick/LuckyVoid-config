@@ -45,7 +45,7 @@
       {"material":  "SULPHUR", "amount": [1, 4], "chance": 40},
       {"material":  "GLOWSTONE", "amount": [1, 1], "chance": 30},
       {"material":  "BLAZE_ROD", "amount": [1, 1], "chance": 30},
-      {"material":  "372", "amount": [1, 2], "chance": 40},
+      {"material":  "NETHER_WARTS", "amount": [1, 2], "chance": 40},
       {"material":  "BONE", "amount": [2, 6], "chance": 50},
       {"material":  "MAGMA_CREAM", "amount": [1, 1], "chance": 40},
       {"material":  "GHAST_TEAR", "amount": [1, 2], "chance": 40},
